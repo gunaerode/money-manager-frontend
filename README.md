@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# money-manager-frontend
+
+Money manager is an application where you can manage your financial things.
+
+## Notes
+
+---
+
+#### [Deploy it on netlify](https://www.freecodecamp.org/news/how-to-deploy-a-react-application-to-netlify-363b8a98a985/):
+
+- `npm install netlify-cli -g`
+- `npm run build` - to create build directory to publish
+- `netlify deploy` - Authorization required (asks to 1. link with existing project 2. create new)
+- Q. Publish Directory (.) `build`
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
